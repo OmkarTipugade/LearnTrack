@@ -71,12 +71,6 @@ javac src/com/airtribe/learntrack/ui/Main.java
 ### Step 3: Run the Application
 # Run the Main class from the bin directory
 ```
-java -cp bin src.com.airtribe.learntrack.ui.Main
-```
-
-**Alternative**: If you're already in the `bin` directory:
-
-```bash
-cd bin
 java src.com.airtribe.learntrack.ui.Main
 ```
+
